@@ -18,7 +18,7 @@ from matplotlib import patches
 import os
 import json
 
-uri = 'radio://0/100/2M/E7E7E7E708'
+uri = 'radio://0/100/2M/E7E7E7E706'
 global pos_xs, pos_ys, pos_ls
 pos_xs = np.array([])
 pos_ys = np.array([])
